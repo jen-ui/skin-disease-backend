@@ -1,0 +1,1 @@
+This is a flask backend that uses fine tuned ml models like inception v4, resNext, Yolo v8 for skin lesion detection. It receives image from a mobile app and runs infererences on that image with the selected model and returns the detection results.
